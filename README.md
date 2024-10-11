@@ -20,8 +20,6 @@ __*Source: Wikipedia*__
 
 ## Usage
 
-## Contributing
-
 ## License
 
 ## Notes
